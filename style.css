@@ -2,6 +2,22 @@
     margin: 0%;
     padding: 0%;
 }
+@media (max-width: 768px) {
+  body {
+    font-size: 14px;
+  }
+  .menu {
+    display: block;
+  }
+}
+.container {
+  width: 90%;   /* adjusts to screen size */
+  margin: auto;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
 nav{
     background-color: black;
     color: white;
