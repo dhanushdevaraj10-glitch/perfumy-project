@@ -1,0 +1,96 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+nav{
+    background-color: black;
+    color: white;
+    padding: 18px;
+}
+h1,ul,li{
+    display: inline;
+}
+ul{
+    margin-left: 65%;
+}
+li{
+    margin-left: 15px;
+    color: red;
+}
+li:hover{
+    color: white;
+    cursor: pointer;
+}
+
+
+/* 2 */
+input{
+    width: 30%;
+    padding: 7px;
+    margin-top: 15px;
+    box-shadow: 10px 10px 10px black;
+}
+.searchbox{
+    text-align: center;
+}
+
+
+/* 3 */
+.box{
+    border-width: 10px;
+    border-color: black;
+    border-style: solid;
+    display: inline-block;
+    width: 220px;
+    margin-left: 45px;
+    margin-top: 50px;
+
+}
+.one{
+    width: 220px;
+}
+.two{
+    width: 220px;
+    height: 220px;
+}
+.productimagedetail{
+    text-align: center;
+}
+.box:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
+
+/* 4 */
+
+.about{
+    margin-top: 50px;
+    text-align: center;
+}
+.abouttheproduct{
+    padding: 10px;
+    filter: drop-shadow(5px 5px 4px black);
+    color: red;
+}
+
+/* 5 */
+
+.contact{
+    text-align: center;
+    background-color: black;
+    color:gray;
+    padding: 20px;
+    font-size: 17px;
+    margin: 20px;
+}
+.contact:hover{
+    color:white;
+    cursor: pointer;
+    cursor: cell;
+}
+a{
+    
+    color: red;
+    background-color: black;
+}
