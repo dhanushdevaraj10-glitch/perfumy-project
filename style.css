@@ -7,11 +7,6 @@ nav{
     color: white;
     padding: 18px;
 }
-@media(max-width: 500px) {
-    .all{
-        width: 100px;
-    }  
-}
 h1,ul,li{
     display: inline;
 }
@@ -20,7 +15,7 @@ ul{
 }
 li{
     margin-left: 15px;
-    color: red;
+    color: blue;
 }
 li:hover{
     color: white;
