@@ -7,10 +7,11 @@ nav{
     color: white;
     padding: 18px;
 }
-@media (max-width:786px){
+@media screen {
     .all{
-        width: 100%;
-      }  
+        width: 20px;
+    }
+    
 }
 h1,ul,li{
     display: inline;
