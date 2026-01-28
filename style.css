@@ -15,7 +15,7 @@ ul{
 }
 li{
     margin-left: 15px;
-    color: blue;
+    color: red;
 }
 li:hover{
     color: white;
